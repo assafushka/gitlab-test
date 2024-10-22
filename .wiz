@@ -1,0 +1,10 @@
+ignore:
+  vulnerabilities:
+    ALL:
+      /vulns/go.mod: {}
+  data:
+    BUILTIN-125:
+      /data/*: {}
+#  secrets:
+#    SECRET-SYSTEM-1:
+#      /.aws_credentials: {}
