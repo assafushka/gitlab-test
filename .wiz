@@ -1,0 +1,5 @@
+ignore:
+  secrets:
+    SECRET-SYSTEM-1:
+      /cloudkeys/aws-keys2.json:
+        reason: fake key
